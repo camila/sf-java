@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Name: JSimpleDice Midlet Suite
+MIDlet-Vendor: k
+MIDlet-Icon: /jsd/dice-ico.png
+MIDlet-Info-URL: http://jsimpledice.sf.net
+MIDlet-1: JSimpleDiceMIDlet,,net.sf.jsimpledice.JSimpleDiceMIDlet, /img/dice-ico.png
+MIDlet-Version: 0.5
+MicroEdition-Profile: MIDP-1.0
+

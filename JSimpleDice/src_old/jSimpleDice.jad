@@ -1,0 +1,10 @@
+MIDlet-Jar-Size: 30625 
+MIDlet-1: jSimpleDiceMIDlet, /jsd/dice-ico.png, jsd.jSimpleDiceMIDlet 
+MIDlet-Jar-URL: jSimpleDice.jar 
+MIDlet-Icon: /jsd/dice-ico.png 
+MicroEdition-Configuration: CLDC-1.0 
+MIDlet-Version: 1.1 
+MIDlet-Name: jSimpleDice 
+MIDlet-Vendor: k 
+MIDlet-Info-URL: http://jsimpledice.sf.net 
+MicroEdition-Profile: MIDP-1.0 

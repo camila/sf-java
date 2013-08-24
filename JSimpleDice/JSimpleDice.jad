@@ -1,0 +1,7 @@
+MIDlet-Version: 0.5
+MIDlet-Vendor: k
+MIDlet-Jar-URL: JSimpleDice.jar
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-1: JSimpleDiceMIDlet,,net.sf.jsimpledice.JSimpleDiceMIDlet
+MicroEdition-Profile: MIDP-1.0
+MIDlet-Name: JSimpleDice
