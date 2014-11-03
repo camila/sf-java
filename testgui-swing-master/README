@@ -1,0 +1,7 @@
+TestGUI
+
+Utility to preview Java GUIs.
+
+* Swing module:
+
+Supports JDialogs, InternalFrames or plain dialogs.
